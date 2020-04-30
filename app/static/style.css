@@ -1,0 +1,32 @@
+body {
+
+    color:#101010;
+}
+
+.jumbotron {
+
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.jumbotron span {
+
+    opacity: 50%;
+}
+
+
+.card-body{
+
+    padding: 1.5rem;
+    border-style: solid;
+    border-color: #eee;
+    border-width: 1px;
+}
+
+.nav-item a{
+   
+    color: #101010;
+
+}
+
+
